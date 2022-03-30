@@ -1,0 +1,35 @@
+.container {
+    align-items: center;
+    margin: 0, auto;
+
+}
+.child1 {
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 100px;
+    color:red;
+    text-decoration: underline rgb(40, 40, 40);
+    text-decoration-thickness: 3px;
+}
+
+.child2{
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    font-size:200%;
+}
+
+.About section {
+    text-align: center;
+    color:grey;
+}
+
+#bio{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 90%;
+}
+
+.flowers {
+    margin: 0, auto;
+    align-items: center;
+    width: 100%;
+}
